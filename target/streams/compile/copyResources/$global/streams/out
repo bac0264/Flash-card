@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(E:\GitRepo\flashcard\conf\application.conf,E:\GitRepo\flashcard\target\scala-2.12\classes\application.conf)
+[debug] 	(E:\GitRepo\flashcard\conf\logback.xml,E:\GitRepo\flashcard\target\scala-2.12\classes\logback.xml)
+[debug] 	(E:\GitRepo\flashcard\conf\routes,E:\GitRepo\flashcard\target\scala-2.12\classes\routes)

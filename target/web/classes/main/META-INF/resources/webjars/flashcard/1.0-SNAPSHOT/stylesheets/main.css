@@ -1,0 +1,101 @@
+#banner{
+    width: 800px;
+    height: 180px;
+    margin: auto;
+    /*background-color: red;*/
+}
+#fc2{
+    width: 800px;
+    height: auto;
+    margin: auto;
+  /*  background-color: orange;*/
+}
+#count{
+    width: 800px;
+    height: 50px;
+    margin: auto;
+  /*  background-color: violet;*/
+}
+#fc3{
+    width: 800px;
+    height: auto;
+    margin: auto;
+  /*  background-color: blue;*/
+}
+#flip{
+    border-radius: 13px;
+}
+#back1{
+    width: 800px;
+    height: auto;
+    padding: 10px;
+}
+#back2{
+    line-height: 2em;
+}
+#input{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+   /* background-color: pink;*/
+}
+#footer{
+    width: 800px;
+    height: 40px;
+    margin: auto;
+}
+#tdData{
+    width: 800px;
+    height: 300px;
+    padding: 20px 20px;
+    margin: auto;
+}
+#myfc{
+    background-color: #eeeeee;
+    padding-left: 30px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+#fc1{
+    padding: 10px 30px;
+    float:right;
+}
+#tdData{
+    text-align: center;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    text-decoration-color: white;
+}
+table, td, tr{
+    border: 1px solid #dddddd;
+    border-radius:10px;
+}
+tr {
+    cursor: pointer;
+    width: 800px;
+    height: 30px;
+    padding: 10px 20px;
+}
+
+textarea{
+    width: 800px;
+    margin:auto;
+}
+
+/*Refactor*/
+
+#input{
+    display: none;
+}
+#fc3{
+    display: none;
+}
